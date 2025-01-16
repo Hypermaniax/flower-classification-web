@@ -15,23 +15,23 @@ interface PredictionResponse {
 }
 
 const classes: Record<string, { description: string; care: string }> = {
-  "Rose": {
+  "rose": {
     "description": "Rosa atau yang sering dikenal dengan Rose(Bunga Mawar), merupakan bunga yang berasal dari berbagai belahan dunia, termasuk Asia, Eropa, Amerika Utara, dan Timur Tengah. Bunga ini dapat tumbuh di iklim sedang hingga tropis dan sering ditemukan di kebun serta taman hias. Mawar juga dikenal sebagai simbol cinta dan keindahan.",
     "care": "Mawar membutuhkan sinar matahari penuh minimal 6 jam sehari, penyiraman di pangkal tanaman secara teratur, tanah lempung yang kaya bahan organik, dan pemangkasan rutin untuk membuang bagian yang mati atau sakit."
   },
-  "Sunflower": {
+  "sunflower": {
     "description": "Helianthus annuus atau yang sering dikenal dengan nama Sunflower(Bunga Matahari), merupakan bunga yang berasal dari Amerika Utara dan Amerika Selatan. Bunga ini dapat tumbuh di daerah yang memiliki banyak sinar matahari, seperti ladang terbuka dan tanah yang subur. Sunflower sering digunakan untuk produksi minyak dan biji-bijian.",
     "care": "Bunga matahari membutuhkan sinar matahari penuh, penyiraman teratur saat pertumbuhan awal, tanah yang memiliki drainase baik, dan dukungan untuk varietas tinggi agar tidak roboh."
   },
-  "Tulip": {
+  "tulip": {
     "description": "Tulipa gesneriana atau yang sering dikenal dengan Tulip, merupakan bunga yang berasal dari Asia Tengah dan telah dibudidayakan secara luas di Eropa, terutama di Belanda. Tulip tumbuh di iklim sedang dan sering ditanam di kebun serta taman musim semi. Tulip melambangkan kesempurnaan dan keanggunan.",
     "care": "Tulip membutuhkan sinar matahari penuh hingga teduh parsial, penyiraman moderat selama pertumbuhan, tanah berpasir dengan drainase baik, dan membiarkan daunnya mati secara alami setelah berbunga."
   },
-  "Daisy": {
+  "daisy": {
     "description": "Bellis perennis atau yang sering dikenal dengan Daisy, merupakan bunga yang berasal dari Eropa dan Asia, tetapi sekarang dapat ditemukan hampir di seluruh dunia. Bunga ini tumbuh subur di padang rumput, ladang, dan taman dengan cahaya matahari yang cukup. Daisy melambangkan kepolosan dan kemurnian.",
     "care": "Daisy membutuhkan sinar matahari penuh, tanah dengan drainase baik, penyiraman teratur tanpa terlalu basah, dan deadheading untuk merangsang pertumbuhan bunga baru."
   },
-  "Dandelion": {
+  "dandelion": {
     "description": "Taraxacum officinale atau yang sering dikenal dengan Dandelion, merupakan bunga yang berasal dari Eurasia dan telah menyebar ke seluruh dunia. Bunga ini sering ditemukan di padang rumput, halaman, dan tempat-tempat dengan tanah yang terganggu, serta mampu tumbuh di berbagai iklim. Dandelion sering digunakan dalam pengobatan tradisional dan dianggap sebagai simbol ketahanan.",
     "care": "Dandelion membutuhkan sinar matahari penuh hingga teduh parsial, sedikit penyiraman, toleransi terhadap berbagai jenis tanah, dan perawatan minimal."
   },
